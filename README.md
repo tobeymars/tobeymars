@@ -1,6 +1,6 @@
 # 👋 Xin chào! Tôi là Nguyễn Nhất Duy
 
-<img src="" alt="Ảnh cá nhân" width="150" align="right" style="border-radius: 50%; border: 2px solid #4CAF50; margin-left: 20px;" />
+<img src="472915298_1341987497152117_7834276560085786092_n.jpg" alt="Ảnh cá nhân" width="150" align="right" style="border-radius: 50%; border: 2px solid #4CAF50; margin-left: 20px;" />
 
 🎓 Sinh viên năm cuối ngành **Công nghệ Thông tin** tại **Đại học Công nghệ Thành phố Hồ Chí Minh**  
 🛠 Hiện đang phát triển **Website Đặt Lịch Khám Nha Khoa** để giúp khách hàng đặt lịch khám và nha sĩ quản lý dễ dàng hơn.
