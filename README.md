@@ -82,9 +82,7 @@ Hiện tại, tôi tập trung phát triển Backend với **PHP Laravel**, thi�
 ---
 
 ## 📫 Liên hệ
-
-- **GitHub:** [github.com/Danh0105](https://github.com/Danh0105)
-- **Email:** Cập nhật email liên hệ tại đây.
+- **Email:** nnhatduy5103@gmail.com
 
 ---
 
