@@ -1,6 +1,6 @@
 # 👋 Xin chào! Tôi là Nguyễn Nhất Duy
 
-🎓 Tốt nghiệp ngành **Công nghệ Thông tin** – Trường Đại học Công nghệ TP. Hồ Chí Minh (HUTECH).
+🎓 Tốt nghiệp ngành **Công nghệ Thông tin**
 
 💻 Tôi quan tâm đến phát triển ứng dụng Web, xây dựng hệ thống quản lý, tích hợp API và giải quyết các bài toán thực tế bằng công nghệ.
 
